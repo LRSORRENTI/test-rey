@@ -24,7 +24,6 @@
 .inner-hero-wrap {
   display: flex;
   flex-direction: row;
-  width: 500px;
 }
 
 .hero-wrap h1 {
@@ -71,6 +70,9 @@
 @media screen and (min-width: 500px) {
   #hero-img {
     width: 650px;
+  }
+  .inner-hero-wrap {
+     width: 500px;
   }
 }
 
