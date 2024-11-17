@@ -4,20 +4,6 @@
   --text-color: #444087;
 }
 
-html,
-body {
-  height: 100%;
-  overflow: hidden;
-  /* position: fixed; */
-  width: 100%;
-}
-
-.hero-wrap {
-  height: 100vh; /* or 100% */
-  overflow-y: auto; /* allows scrolling within the container if needed */
-  -webkit-overflow-scrolling: touch; /* for smooth scrolling on iOS */
-}
-
 .fade-in {
   opacity: 0;
   transition: opacity 1s ease-in-out;
