@@ -24,7 +24,7 @@
 .inner-hero-wrap {
   display: flex;
   flex-direction: row;
-  width: 700px;
+  width: 500px;
 }
 
 .hero-wrap h1 {
